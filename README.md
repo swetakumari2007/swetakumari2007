@@ -35,3 +35,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=swetakumari2007&show_icons=true&locale=en&layout=compact" alt="swetakumari2007" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swetakumari2007&" alt="swetakumari2007" /></p>
+ <!-- <img align="center" alt="Footer" width=100% src="img/footer.svg" /> -->
+</div>
+
+<img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=ff5722&size=25&center=true&vCenter=true&width=600%&lines=Thank+you+!!;" />
